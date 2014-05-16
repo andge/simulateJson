@@ -4,10 +4,10 @@ this is the json preprocessor tool.it generate json data based on rules
 
 for example:
 
-        {
+    {
     "       result": 0,
             "data" : "[]@5|{}@ticket:passwd:date|一@[5-8],a@[10-15],1@[10000-1000000]" 
-        }
+    }
 
 compile with the tool,we can get json 
 
