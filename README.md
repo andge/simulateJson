@@ -60,6 +60,6 @@ compile with the tool,we can get json
 []@5   meaning the array has five child 
 a@[10-15]  meaning the string's length is between 10 and 15
 
-4. rule4 
+4. rule4    
 [1-10]  meaing the length is between 1 and 10  or  the number is bettween 1 and 10 
 
