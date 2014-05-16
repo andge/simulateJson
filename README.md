@@ -1,10 +1,9 @@
 simulateJson
 ============
-++ Descripsion
+### Descripsion
 this is the json preprocessor tool.it generate json data based on rules
 
-
-++ usage
+### usage
 node mock.js input.json output.json
 
 
