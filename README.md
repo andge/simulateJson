@@ -50,10 +50,10 @@ compile with the tool,we can get json
 
 2. rule2    
 [] or a or 1 or 一 is the data type of the property
-+ **[]** is array
-+ **a** is string
-+ **1** is number
-+ **一** is chinese character
+- **[]** is array
+- **a** is string
+- **1** is number
+- **一** is chinese character
 
 3. rule3     
 @ is the property statement.for example : 
