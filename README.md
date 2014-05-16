@@ -55,7 +55,7 @@ compile with the tool,we can get json
 **1** is number
 **一** is chinese character
 
-3. rule3 
+3. rule3     
 @ is the property statement.for example : 
 []@5   meaning the array has five child 
 a@[10-15]  meaning the string's length is between 10 and 15
