@@ -42,7 +42,7 @@ compile with the tool,we can get json
     ]
     }
 
-rules:
+###rules:
 rule 1:
 [] or a or 1 or 一 is the data type of the property
 [] is array
